@@ -121,14 +121,13 @@ a {
 
   &:hover {
     color: $link-hover-color;
-    text-decoration: underline;
   }
 
   .social-media-list &:hover {
-    text-decoration: none;
+    color: $link-hover-color;
 
     .username {
-      text-decoration: underline;
+      color: $link-hover-color;
     }
   }
 }
