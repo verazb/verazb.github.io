@@ -1,8 +1,8 @@
 ---
-page.title: "Welcome"
+page.title: "About"
 --- 
 
-### Welcome
+### Welcome!
 
 
 I am a Ph.D. candidate in Applied Economics at the [University of Basel](https://wwz.unibas.ch/en/), Switzerland. My research interests lie in health economics, labour economics, social insurance design and applied econometrics.
@@ -16,3 +16,4 @@ I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at
 Please find my CV [here](docs/Zabrodina_CV_Nov2021.pdf). I am happy to hear from you by [email](mailto:vera.zabrodina@unibas.ch). 
 
 
+![](docs/VeraZabrodina.JPG)
