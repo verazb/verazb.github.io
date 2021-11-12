@@ -1,8 +1,8 @@
 ---
-page.title: "About"
+page.title: "Welcome"
 --- 
 
-### Welcome!
+### Welcome
 
 
 I am a Ph.D. candidate in Applied Economics at the [University of Basel](https://wwz.unibas.ch/en/), Switzerland. My research interests lie in health economics, labour economics, social insurance design and applied econometrics.
