@@ -25,6 +25,9 @@
   &:visited {
     color: $site-title-color;
   }
+  &:hover {
+    color: $link-hover-color;
+  }
 }
 
 .site-nav {
@@ -78,6 +81,9 @@
     display: block;
     padding: 5px 10px;
 
+    &:hover {
+      color: $link-hover-color;
+    }
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 0;
