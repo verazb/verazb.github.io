@@ -1,4 +1,5 @@
 ---
+layout: default
 page.title: "About"
 --- 
 
@@ -15,5 +16,7 @@ I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at
 
 Please find my CV [here](docs/Zabrodina_CV_Nov2021.pdf). I am happy to hear from you by [email](mailto:vera.zabrodina@unibas.ch). 
 
+<br />
+<br />
 
 ![](docs/VeraZabrodina.JPG)
