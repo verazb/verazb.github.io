@@ -5,3 +5,11 @@ header_pages:
   - research.md
   - teaching.md 
   - other.md
+
+
+locale                   : "en-US"
+title                    : "Véra Zabrodina | Personal website"
+site.title               : "Véra Zabrodina | Personal website"
+title_separator          : "-"
+name                     : &name "Véra Zabrodina"
+description              : &description "Ph.D. Candidate in Economics"
