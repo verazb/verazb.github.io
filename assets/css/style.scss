@@ -6,13 +6,3 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-
-@import "_default.scss";
-@import "code.scss";
-@import "footer.scss";
-@import "header.scss";
-@import "navigation.scss";
-@import "landing_page.scss";
-@import "main.scss";
-@import "post.scss";
-@import "typography.scss";
