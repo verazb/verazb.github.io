@@ -1,1 +1,5 @@
+---
+page.title: "Other"
+--- 
+
 ### Other 
