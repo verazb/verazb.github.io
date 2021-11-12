@@ -1,5 +1,7 @@
+### Research 
+
  
-### Working papers
+#### Working papers
 
 Timing Moral Hazard under Deductibles in Health Insurance 
 
@@ -16,7 +18,7 @@ Abstract
 
 
 
-### Publications
+#### Publications
 
 **Zabrodina, Véra**, Mark Dusheiko, and Karine Moschetti (2020). A Moneymaking Scan: Dual Reimbursement Systems and Supplier-Induced Demand for Diagnostic Imaging. Health Economics, 29(12): 1566--1585. 
 
@@ -28,7 +30,7 @@ Moschetti, Karine, Véra Zabrodina, Pierre Stadelmann, Tenzin Wangmo, Alberto Ho
 
 
 
-### Work in progress
+#### Work in progress
 
 The Optimal Time-Profile of Unemployment Insurance Benefits (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
 
