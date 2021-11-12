@@ -13,7 +13,9 @@ title                    : "Véra Zabrodina"
 site.title               : "Véra Zabrodina"
 title_separator          : "-"
 name                     : &name "Véra Zabrodina"
-description              : &description "Véra Zabrodina's personal website. Copyright 2021."
+description              : &description "Véra Zabrodina's personal website."
+site.author.email        : vera.zabrodina@unibas.ch
+
 
 plugins:
   - jekyll-redirect-from
