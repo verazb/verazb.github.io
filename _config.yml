@@ -14,3 +14,6 @@ site.title               : "Véra Zabrodina"
 title_separator          : "-"
 name                     : &name "Véra Zabrodina"
 description              : &description "Ph.D. Candidate in Economics"
+
+plugins:
+  - jekyll-redirect-from
