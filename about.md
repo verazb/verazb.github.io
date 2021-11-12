@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my personal website
 
-You can use the [editor on GitHub](https://github.com/verazb/verazb.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Ph.D. candidate in Applied Economics at the University of Basel, Switzerland. My research interests are in health economics, labour economics, social insurance design and applied econometrics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My current focus is on health and unemployment insurance, as well as income taxation systems. One common goal is to understand the sources of dynamics and heterogeneity in individual decision-making. 
 
-### Markdown
+Previously, I worked as a Research Fellow in health economics at Unisanté. 
+I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please find my CV [email](docs/Zabrodina_CV_Nov2021.pdf). I am happy to hear from you by [email](vera.zabrodina@unibas.ch). 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/verazb/verazb.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
