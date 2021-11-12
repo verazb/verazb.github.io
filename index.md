@@ -8,6 +8,6 @@ Previously, I worked as a Research Fellow in health economics at Unisanté.
 
 I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
 
-Please find my CV [here](docs/Zabrodina_CV_Nov2021.pdf). I am happy to hear from you by [email](vera.zabrodina@unibas.ch). 
+Please find my CV [here](docs/Zabrodina_CV_Nov2021.pdf). I am happy to hear from you by [email](mailto:vera.zabrodina@unibas.ch). 
 
 
