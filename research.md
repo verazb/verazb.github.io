@@ -1,4 +1,6 @@
-### Research 
+---
+page.title: "Research"
+--- 
 
  
 #### Working papers

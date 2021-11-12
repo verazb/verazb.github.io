@@ -1,7 +1,7 @@
 theme: minima
 
 header_pages:
-  - about.md
+  - index.md
   - research.md
   - cv.md
   - teaching.md 
@@ -9,8 +9,8 @@ header_pages:
 
 
 locale                   : "en-US"
-title                    : "Véra Zabrodina | Personal website"
-site.title               : "Véra Zabrodina | Personal website"
+title                    : "Véra Zabrodina"
+site.title               : "Véra Zabrodina"
 title_separator          : "-"
 name                     : &name "Véra Zabrodina"
 description              : &description "Ph.D. Candidate in Economics"
