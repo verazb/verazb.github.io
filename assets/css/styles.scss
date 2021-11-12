@@ -1,3 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
 /*
 Read the variables defined in the config.toml file and define the corresponding
 SCSS variables. This is achieved by `resources.ExecuteAsTemplate` in the <head>;
