@@ -3,6 +3,7 @@ theme: minima
 header_pages:
   - about.md
   - research.md
+  - cv.md
   - teaching.md 
   - other.md
 
