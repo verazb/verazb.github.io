@@ -1,6 +1,6 @@
 ## Welcome!
 
-I am a Ph.D. candidate in Applied Economics at the University of Basel, Switzerland. My research interests are in health economics, labour economics, social insurance design and applied econometrics.
+I am a Ph.D. candidate in Applied Economics at the [University of Basel](https://wwz.unibas.ch/en/), Switzerland. My research interests lie in health economics, labour economics, social insurance design and applied econometrics.
 
 My current focus is on health and unemployment insurance, as well as income taxation systems. One common goal is to understand the sources of dynamics and heterogeneity in individual decision-making. 
 
