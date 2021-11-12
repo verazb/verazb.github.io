@@ -5,8 +5,9 @@ I am a Ph.D. candidate in Applied Economics at the University of Basel, Switzerl
 My current focus is on health and unemployment insurance, as well as income taxation systems. One common goal is to understand the sources of dynamics and heterogeneity in individual decision-making. 
 
 Previously, I worked as a Research Fellow in health economics at Unisanté. 
+
 I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
 
-Please find my CV [email](docs/Zabrodina_CV_Nov2021.pdf). I am happy to hear from you by [email](vera.zabrodina@unibas.ch). 
+Please find my CV [here](docs/Zabrodina_CV_Nov2021.pdf). I am happy to hear from you by [email](vera.zabrodina@unibas.ch). 
 
 
