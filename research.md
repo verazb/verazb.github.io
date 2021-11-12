@@ -1,40 +1,36 @@
-## Welcome to GitHub Pages
+## Research
 
-You can use the [editor on GitHub](https://github.com/verazb/verazb.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+ 
+### Working papers
+
+Timing Moral Hazard under Deductibles in Health Insurance 
+Abstract
+
+-- draft available upon request
 
 
-[About](about.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Unemployment Insurance in the Presence of Heterogeneity (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
 
-### Markdown
+Abstract
+-- draft available upon request
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Publications
 
-- Bulleted
-- List
+**Zabrodina, Véra**, Mark Dusheiko, and Karine Moschetti (2020). A Moneymaking Scan: Dual Reimbursement Systems and Supplier-Induced Demand for Diagnostic Imaging. Health Economics, 29(12): 1566--1585. 
+This paper won the iHEA Early Career Researcher Best Paper Prize. Check out the follow-up interview. 
 
-1. Numbered
-2. List
+Moschetti, Karine, **Véra Zabrodina**, Tenzin Wangmo, Alberto Holly, Jean-Blaise Wasserfallen, Bernice S. Elger, and Bruno Gravier (2018). [The determinants of healthcare expenditures of prisoners: Evidence from Switzerland](https://doi.org/10.1186/s12913-018-2962-8). _BMC Health Services Research_, 18:160. 
 
-**Bold** and _Italic_ and `Code` text
+Moschetti, Karine, Véra Zabrodina, Pierre Stadelmann, Tenzin Wangmo, Alberto Holly, Jean-Blaise Wasserfallen, Bernice S. Elger, and Bruno Gravier (2017). [Exploring differences in healthcare utilization of prisoners in the canton of Vaud, Switzerland](https://doi.org/10.1371/journal.pone.0187255). _PLOS ONE_, 12(10):e0187255. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Work in progress
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/verazb/verazb.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The Optimal Time-Profile of Unemployment Insurance Benefits (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Heterogeneous Labour Supply Elasticities and Inefficient Employment (with [Ulrike Unterhofer](https://wwz.unibas.ch/en/persons/ulrike-unterhofer-1/)). 
