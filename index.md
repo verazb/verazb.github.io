@@ -14,9 +14,10 @@ Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https:
 
 My interests lie in health economics, labour economics, social insurance design and applied econometrics.
 
+Download my CV [here](docs/Zabrodina_CV_Nov2021.pdf).
+
 Get in touch by [email](mailto:vera.zabrodina@unibas.ch).
 
-Download my CV [here](docs/Zabrodina_CV_Nov2021.pdf).
 
 
 **Latest**: I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
