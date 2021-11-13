@@ -27,7 +27,7 @@ I study how individuals respond to the economic incentives created by health ins
 I develop new causal identification designs derived from theoretical models, and implement them using large administrative datasets. 
 
 My current research topics include 
-- The strategic timing of healthcare consumption in health insurance
+- The strategic timing of healthcare consumption 
 - The design of unemployment insurance with heterogeneous responses to coverage generosity
 - The heterogeneity in labour supply responses of low-income workers. 
 
