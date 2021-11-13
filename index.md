@@ -2,12 +2,13 @@
 layout: default
 --- 
 
-## About
 
-<img align="left" src="docs/VeraZabrodina2.JPG" width="300">
+
+<img align="left" src="docs/VeraZabrodina2.JPG" width="300" class="padding">
 <!-- ![](docs/VeraZabrodina.JPG) -->
 <!-- ![image](path-to-image.jpg){: style="float: left"} -->
 
+## About
 
 Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https://wwz.unibas.ch/en/). 
 
