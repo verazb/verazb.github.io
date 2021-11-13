@@ -47,15 +47,36 @@ Before my doctoral studies, I worked as a research fellow in health economics at
  
 ### Working papers
 
-- Timing Moral Hazard under Deductibles in Health Insurance 
-  Abstract
-  -- draft available upon request
+- Timing Moral Hazard under Deductibles in Health Insurance. -- draft available upon request
+
+  <details>
+    <summary>\[Abstract\]</summary>
+    
+    This paper develops a new approach to identifying timing moral hazard in health insurance contracts when deductible choice is endogenous. I set up a dynamic model of healthcare consumption where individuals exceed a high deductible after a large health shock. I show that individuals either strategically prepone care from the year after the shock and keep a high deductible, or postpone and switch to a low deductible the year after. The identification of timing moral hazard exploits the randomness of shock timing within a calendar year and future prices. Empirical results show little evidence for timing moral hazard, but significant differences in switching to a lower deductible. This pattern suggests that there is limited scope for preponing care, and within-year incentives are more important than cross-year incentives in shaping healthcare consumption. 
+
+  </details>
 
 
 
-- Unemployment Insurance with Response Heterogeneity (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
-  Abstract
-  -- draft available upon request
+
+- Unemployment Insurance with Response Heterogeneity (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). -- draft available upon request
+  
+  <details>
+    <summary>\[Abstract\]</summary>
+    
+    This paper studies whether responses to unemployment insurance (UI) vary with age and social security contribution time -- two dimensions widely used to differentiate UI policy across workers. In the presence of heterogeneity in responses to UI, average estimates may veil opportunities for welfare-improving redistribution and finer UI design. We use administrative data from Germany and a multi-cutoff regression discontinuity design to estimate a comprehensive set of duration and wage effects at many discontinuities in potential benefit duration. Feeding the estimates into a meta regression, we find that both duration responses and wage losses at reemployment decrease with short-term contribution time. We find a weak and insignificant gradient in age and long-term contribution. This suggests that short-term contribution time is an important determinant of UI responses, and thus a relevant dimension for policy differentiation. 
+
+  </details>
+
+  
+
+
+### Work in progress
+
+- The Optimal Time-Profile of Unemployment Insurance Benefits (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
+
+
+- Heterogeneous Labour Supply Elasticities and Inefficient Employment (with [Ulrike Unterhofer](https://wwz.unibas.ch/en/persons/ulrike-unterhofer-1/)). 
 
 
 
@@ -69,14 +90,6 @@ Before my doctoral studies, I worked as a research fellow in health economics at
 
 - Moschetti, Karine, Véra Zabrodina, Pierre Stadelmann, Tenzin Wangmo, Alberto Holly, Jean-Blaise Wasserfallen, Bernice S. Elger, and Bruno Gravier (2017). [Exploring differences in healthcare utilization of prisoners in the canton of Vaud, Switzerland](https://doi.org/10.1371/journal.pone.0187255). _PLOS ONE_, 12(10):e0187255. 
 
-
-
-### Work in progress
-
-- The Optimal Time-Profile of Unemployment Insurance Benefits (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
-
-
-- Heterogeneous Labour Supply Elasticities and Inefficient Employment (with [Ulrike Unterhofer](https://wwz.unibas.ch/en/persons/ulrike-unterhofer-1/)). 
 
 
 
