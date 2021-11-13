@@ -4,10 +4,27 @@ layout: default
 
 ## About
 
+<img align="left" src="docs/VeraZabrodina2.JPG">
+<!-- ![](docs/VeraZabrodina.JPG) -->
+
 
 Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https://wwz.unibas.ch/en/). 
 
 My interests lie in health economics, labour economics, social insurance design and applied econometrics.
+
+Get in touch by [email](mailto:vera.zabrodina@unibas.ch).
+
+Download my CV [here](docs/Zabrodina_CV_Nov2021.pdf).
+
+
+**Latest** 
+
+I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
+
+
+<br />
+<br />
+
 
 I study how individuals respond to the economic incentives created by health insurance, unemployment insurance, and income taxation systems. 
 I develop new causal identification designs derived from theoretical models, and implement them using large administrative datasets. 
@@ -21,20 +38,6 @@ My current research topics include
 Before my doctoral studies, I worked as a research fellow in health economics at [Unisanté](https://www.unisante.ch/fr). 
 
 
-Get in touch by [email](mailto:vera.zabrodina@unibas.ch).
-
-Download my CV [here](docs/Zabrodina_CV_Nov2021.pdf).
-
-
-
-### Latest 
-
-I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
-
-<br />
-<br />
-
-![](docs/VeraZabrodina.JPG)
 
 
 
