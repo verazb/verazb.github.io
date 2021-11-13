@@ -1,9 +1,8 @@
 ---
 layout: default
-page.title: "About"
 --- 
 
-### About
+## About
 
 
 Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https://wwz.unibas.ch/en/). 
@@ -28,7 +27,7 @@ Before my doctoral studies, I worked as a research fellow in health economics at
 
 
 
-#### Latest 
+### Latest 
 
 I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
 
@@ -42,9 +41,9 @@ I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at
 ***
 
 
-### Research 
+## Research 
  
-#### Working papers
+### Working papers
 
 - Timing Moral Hazard under Deductibles in Health Insurance 
   Abstract
@@ -58,7 +57,7 @@ I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at
 
 
 
-#### Publications
+### Publications
 
 - Zabrodina, Véra, Mark Dusheiko, and Karine Moschetti (2020). [A Moneymaking Scan: Dual Reimbursement Systems and Supplier-Induced Demand for Diagnostic Imaging](https://doi.org/10.1002/hec.4152). _Health Economics_, 29(12):1566--1585. 
 
@@ -70,7 +69,7 @@ I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at
 
 
 
-#### Work in progress
+### Work in progress
 
 - The Optimal Time-Profile of Unemployment Insurance Benefits (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
 
@@ -82,7 +81,7 @@ I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at
 ***
 
 
-### Teaching 
+## Teaching 
 
 - **Causal Inference for Policy Evaluation**, University of Basel (2021) 
 
