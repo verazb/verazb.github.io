@@ -19,9 +19,7 @@ Get in touch by [email](mailto:vera.zabrodina@unibas.ch).
 Download my CV [here](docs/Zabrodina_CV_Nov2021.pdf).
 
 
-**Latest** 
-
-I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
+**Latest**: I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
 
 
 <br />
