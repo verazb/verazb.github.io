@@ -4,7 +4,7 @@ layout: default
 
 
 
-<img align="left" src="docs/VeraZabrodina2.JPG" width="250">
+<img align="left" src="docs/VeraZabrodina2.JPG" width="230">
 <!-- ![](docs/VeraZabrodina.JPG) -->
 <!-- ![image](path-to-image.jpg){: style="float: left"} -->
 
@@ -58,7 +58,6 @@ Before my doctoral studies, I worked as a research fellow in health economics at
   </details>
 
 
-<br />
 
 - Unemployment Insurance with Response Heterogeneity (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). --- draft available upon request
   
