@@ -352,3 +352,14 @@
   }
 }
 
+
+.summary {
+  text-color: $link-base-color;
+  margin-bottom: 15px;
+}
+
+
+.details {
+  text-color: lighten($text-color, 40%)
+  margin-bottom: 15px;
+}
