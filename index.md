@@ -8,12 +8,12 @@ page.title: "About"
 
 Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https://wwz.unibas.ch/en/). 
 
-Research interests: Health economics, labour economics, social insurance design and applied econometrics.
+My interests lie in health economics, labour economics, social insurance design and applied econometrics.
 
 I study how individuals respond to the economic incentives created by health insurance, unemployment insurance, and income taxation systems. 
 I develop new causal identification designs derived from theoretical models, and implement them using large administrative datasets. 
 
-My current topics include 
+My current research topics include 
 - the strategic timing of healthcare consumption in health insurance
 - the design of unemployment insurance with heterogeneous responses to coverage generosity
 - and the heterogeneity in labour supply responses of low-income workers. 
@@ -84,22 +84,19 @@ I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at
 
 ### Teaching 
 
-#### Causal Inference for Policy Evaluation 
-University of Basel (2021) 
+- **Causal Inference for Policy Evaluation**, University of Basel (2021) 
 
-For this course lectured by Conny Wunsch, Ulrike Unterhofer and I lead lab sessions where we teach Master's and Ph.D. students how to implement causal inference methods by replicating papers in R. 
+  For this course lectured by Conny Wunsch, Ulrike Unterhofer and I lead lab sessions where we teach Master's and Ph.D. students how to implement causal inference methods by replicating papers in R. 
 
-Check out the materials on [GitHub](https://github.com/verazb/Hippo). 
+  Check out the materials on [GitHub](https://github.com/verazb/Hippo). 
 
-
-
-#### Past courses
 
 - Applied Empirical Analysis, M.Sc. and Ph.D. (lab sessions and teaching assistance), University of Basel (2020)
 
 - Empirical Research Methods in Labour Economics, M.Sc. and Ph.D. (lab sessions and teaching assistance), University of Basel  (2018, 2019)
 
 - Advanced Empirical Research Methods, M.Sc. and Ph.D. (teaching assistance), University of Basel (2018, 2019)
+
 
 
 ***
