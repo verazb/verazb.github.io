@@ -355,11 +355,11 @@
 
 .summary {
   text-color: $link-base-color;
-  margin-bottom: 15px;
+  margin-bottom: $spacing-unit/2;
 }
 
 
 .details {
-  text-color: lighten($text-color, 40%)
-  margin-bottom: 15px;
+  text-color: lighten($text-color, 40%); 
+  margin-bottom: $spacing-unit/2;
 }

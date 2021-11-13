@@ -48,7 +48,7 @@ Before my doctoral studies, I worked as a research fellow in health economics at
  
 ### Working papers
 
-- Timing Moral Hazard under Deductibles in Health Insurance. -- draft available upon request
+- Timing Moral Hazard under Deductibles in Health Insurance. --- draft available upon request
 
   <details>
     <summary>Abstract</summary>
@@ -60,7 +60,7 @@ Before my doctoral studies, I worked as a research fellow in health economics at
 
 
 
-- Unemployment Insurance with Response Heterogeneity (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). -- draft available upon request
+- Unemployment Insurance with Response Heterogeneity (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). --- draft available upon request
   
   <details>
     <summary>Abstract</summary>
