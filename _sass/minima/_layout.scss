@@ -8,7 +8,12 @@
   line-height: $base-line-height * $base-font-size * 4;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  /*position: relative;*/
+
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+
 }
 
 .site-title {
