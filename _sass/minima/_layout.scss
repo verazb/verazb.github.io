@@ -353,13 +353,13 @@
 }
 
 
-summary {
+.popoutlink {
   text-color: $link-base-color;
   margin-bottom: $spacing-unit/2;
 }
 
 
-details {
+.popout {
   text-color: lighten($text-color, 40%); 
   margin-bottom: $spacing-unit/2;
 }
