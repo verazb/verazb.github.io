@@ -5,10 +5,6 @@ page.title: "About"
 
 ### About
 
-[Research](#research)
-[Teaching](#teaching)
-[Other](#other)
-
 
 Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https://wwz.unibas.ch/en/). 
 
