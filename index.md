@@ -5,7 +5,9 @@ page.title: "About"
 
 ### About
 
-[Research](#research-part)
+[Research](#research)
+[Teaching](#teaching)
+[Other](#other)
 
 
 Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https://wwz.unibas.ch/en/). 
@@ -41,7 +43,9 @@ I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at
 
 
 
-#research-part
+***
+
+
 ### Research 
  
 #### Working papers
@@ -76,3 +80,33 @@ I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at
 
 
 - Heterogeneous Labour Supply Elasticities and Inefficient Employment (with [Ulrike Unterhofer](https://wwz.unibas.ch/en/persons/ulrike-unterhofer-1/)). 
+
+
+
+***
+
+
+### Teaching 
+
+#### Causal Inference for Policy Evaluation 
+University of Basel (2021) 
+
+For this course lectured by Conny Wunsch, Ulrike Unterhofer and I lead lab sessions where we teach Master's and Ph.D. students how to implement causal inference methods by replicating papers in R. 
+
+Check out the materials on [GitHub](https://github.com/verazb/Hippo). 
+
+
+
+#### Past courses
+
+- Applied Empirical Analysis, M.Sc. and Ph.D. (lab sessions and teaching assistance), University of Basel (2020)
+
+- Empirical Research Methods in Labour Economics, M.Sc. and Ph.D. (lab sessions and teaching assistance), University of Basel  (2018, 2019)
+
+- Advanced Empirical Research Methods, M.Sc. and Ph.D. (teaching assistance), University of Basel (2018, 2019)
+
+
+***
+
+
+### Other 
