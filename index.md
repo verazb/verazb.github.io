@@ -26,7 +26,7 @@ I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at
 I study how individuals respond to the economic incentives created by health insurance, unemployment insurance, and income taxation systems. 
 I develop new causal identification designs derived from theoretical models, and implement them using large administrative datasets. 
 
-My current research topics include 
+Current topics include 
 - The strategic timing of healthcare consumption 
 - The design of unemployment insurance with heterogeneous responses to coverage generosity
 - The heterogeneity in labour supply responses of low-income workers. 
