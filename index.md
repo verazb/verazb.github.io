@@ -25,7 +25,6 @@ I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at
 
 
 <br />
-<br />
 
 
 I study how individuals respond to the economic incentives created by health insurance, unemployment insurance, and income taxation systems. 
