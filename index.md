@@ -4,8 +4,9 @@ layout: default
 
 ## About
 
-<img align="left" src="docs/VeraZabrodina2.JPG">
+<img align="left" src="docs/VeraZabrodina2.JPG" width="300">
 <!-- ![](docs/VeraZabrodina.JPG) -->
+<!-- ![image](path-to-image.jpg){: style="float: left"} -->
 
 
 Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https://wwz.unibas.ch/en/). 
