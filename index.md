@@ -29,9 +29,9 @@ I study how individuals respond to the economic incentives created by health ins
 I develop new causal identification designs derived from theoretical models, and implement them using large administrative datasets. 
 
 My current research topics include 
-- the strategic timing of healthcare consumption in health insurance
-- the design of unemployment insurance with heterogeneous responses to coverage generosity
-- and the heterogeneity in labour supply responses of low-income workers. 
+- The strategic timing of healthcare consumption in health insurance
+- The design of unemployment insurance with heterogeneous responses to coverage generosity
+- The heterogeneity in labour supply responses of low-income workers. 
 
 
 Before my doctoral studies, I worked as a research fellow in health economics at [Unisanté](https://www.unisante.ch/fr). 
@@ -53,7 +53,7 @@ Before my doctoral studies, I worked as a research fellow in health economics at
 
 
 
-- Unemployment Insurance in the Presence of Heterogeneity (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
+- Unemployment Insurance with Response Heterogeneity (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
   Abstract
   -- draft available upon request
 
@@ -99,8 +99,9 @@ Before my doctoral studies, I worked as a research fellow in health economics at
 - Advanced Empirical Research Methods, M.Sc. and Ph.D. (teaching assistance), University of Basel (2018, 2019)
 
 
-
+<!-- 
 ***
 
 
 ### Other 
+ -->
