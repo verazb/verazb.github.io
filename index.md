@@ -4,7 +4,7 @@ layout: default
 
 
 
-<img align="left" src="docs/VeraZabrodina2.JPG" width="300" class="padding">
+<img align="left" src="docs/VeraZabrodina2.JPG" width="300">
 <!-- ![](docs/VeraZabrodina.JPG) -->
 <!-- ![image](path-to-image.jpg){: style="float: left"} -->
 
