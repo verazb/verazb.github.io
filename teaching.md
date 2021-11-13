@@ -13,7 +13,7 @@ Check out the materials on [GitHub](https://github.com/verazb/Hippo).
 
 
 
-#### Past teaching assistance
+#### Past courses
 
 - Applied Empirical Analysis, M.Sc. and Ph.D. (lab sessions and teaching assistance), University of Basel (2020)
 

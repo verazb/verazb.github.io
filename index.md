@@ -5,13 +5,12 @@ page.title: "About"
 
 ### About
 
-*** 
 
 Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https://wwz.unibas.ch/en/). 
 
 Research interests: Health economics, labour economics, social insurance design and applied econometrics.
 
-My research aims to understand how individuals respond to the economic incentives created by health insurance, unemployment insurance, and income taxation systems. 
+I study how individuals respond to the economic incentives created by health insurance, unemployment insurance, and income taxation systems. 
 I develop new causal identification designs derived from theoretical models, and implement them using large administrative datasets. 
 
 My current topics include 
@@ -23,12 +22,10 @@ My current topics include
 Before my doctoral studies, I worked as a research fellow in health economics at [Unisanté](https://www.unisante.ch/fr). 
 
 
-#### Get in touch 
+**Get in touch by [email](mailto:vera.zabrodina@unibas.ch).**
 
+**Download my CV [here](docs/Zabrodina_CV_Nov2021.pdf).**
 
-Download my CV [here](docs/Zabrodina_CV_Nov2021.pdf). 
-
-I am happy to hear from you by [email](mailto:vera.zabrodina@unibas.ch). 
 
 
 #### Latest 
