@@ -5,12 +5,22 @@ page.title: "About"
 
 ### About 
 
+Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https://wwz.unibas.ch/en/), Switzerland. 
 
-I am a Ph.D. candidate in Applied Economics at the [University of Basel](https://wwz.unibas.ch/en/), Switzerland. My research interests lie in health economics, labour economics, social insurance design and applied econometrics.
+My research interests lie in health economics, labour economics, social insurance design and applied econometrics.
 
-My current focus is on health and unemployment insurance, as well as income taxation systems. One common goal is to understand the sources of dynamics and heterogeneity in individual decision-making, and their implications for system design.  
+My current research aims to understand how individuals respond to the economic incentives created by health insurance, unemployment insurance, and income taxation systems.
 
-Previously, I worked as a Research Fellow in health economics at Unisanté. 
+I develop new causal identification designs derived from theoretical models, and implement them using large administrative datasets. With this, my goal is to formulate relevant policy recommendations for the optimal design
+of these systems.
+
+Recently, I have studied, e.g. 
+- the strategic timing of healthcare consumption in health insurance
+- the design of unemployment insurance with heterogeneous responses to coverage generosity
+- and the heterogeneity in labour supply responses of low-income workers. 
+
+
+Before my doctoral studies, I worked as a research fellow in health economics at [Unisanté](https://www.unisante.ch/fr). 
 
 I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
 
