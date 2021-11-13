@@ -5,14 +5,12 @@ page.title: "About"
 
 ### About 
 
-Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https://wwz.unibas.ch/en/), Switzerland. 
+Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https://wwz.unibas.ch/en/). 
 
-My research interests lie in health economics, labour economics, social insurance design and applied econometrics.
+Research interests: Health economics, labour economics, social insurance design and applied econometrics.
 
-My current research aims to understand how individuals respond to the economic incentives created by health insurance, unemployment insurance, and income taxation systems.
-
-I develop new causal identification designs derived from theoretical models, and implement them using large administrative datasets. With this, my goal is to formulate relevant policy recommendations for the optimal design
-of these systems.
+My current research aims to understand how individuals respond to the economic incentives created by health insurance, unemployment insurance, and income taxation systems. 
+I develop new causal identification designs derived from theoretical models, and implement them using large administrative datasets. 
 
 Recently, I have studied, e.g. 
 - the strategic timing of healthcare consumption in health insurance
