@@ -21,9 +21,9 @@ My current research topics include
 Before my doctoral studies, I worked as a research fellow in health economics at [Unisanté](https://www.unisante.ch/fr). 
 
 
-**Get in touch by [email](mailto:vera.zabrodina@unibas.ch).**
+Get in touch by [email](mailto:vera.zabrodina@unibas.ch).
 
-**Download my CV [here](docs/Zabrodina_CV_Nov2021.pdf).**
+Download my CV [here](docs/Zabrodina_CV_Nov2021.pdf).
 
 
 
