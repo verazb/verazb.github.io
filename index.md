@@ -16,7 +16,6 @@ My interests lie in health economics, labour economics, social insurance design 
 
 Please download my CV [here](docs/Zabrodina_CV_Nov2021.pdf), or get in touch by [email](mailto:vera.zabrodina@unibas.ch). 
 
-
 I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
 
 
@@ -97,7 +96,7 @@ Before my doctoral studies, I worked as a research fellow in health economics at
 
 - **Causal Inference for Policy Evaluation**, M.Sc. and Ph.D., University of Basel (2021) 
 
-  For this course lectured by Conny Wunsch, Ulrike Unterhofer and I teach lab sessions where implement causal inference methods by replicating papers in R. 
+  For this course lectured by Conny Wunsch, Ulrike Unterhofer and I teach lab sessions where we implement causal inference methods by replicating papers in R. 
 
   Check out the lab session materials on [GitHub](https://github.com/verazb/Hippo). 
 
@@ -116,9 +115,7 @@ Before my doctoral studies, I worked as a research fellow in health economics at
 
 Véra Zabrodina 
 
-Faculty of Business and Economics
-
-University of Basel
+Faculty of Business and Economics, University of Basel
 
 Peter-Merian Weg 6, 4002 Basel, Switzerland
 
