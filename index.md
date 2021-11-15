@@ -115,10 +115,12 @@ Before my doctoral studies, I worked as a research fellow in health economics at
 ## Contact 
 
 Véra Zabrodina 
+
 Faculty of Business and Economics
+
 University of Basel
-Peter-Merian Weg 6 
-4002 Basel, Switzerland
+
+Peter-Merian Weg 6, 4002 Basel, Switzerland
 
 [Email](mailto:vera.zabrodina@unibas.ch)
 
