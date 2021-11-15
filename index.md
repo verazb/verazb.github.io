@@ -4,7 +4,7 @@ layout: default
 
 
 
-<img align="left" src="docs/VeraZabrodina2.JPG" width="260">
+<img align="left" src="docs/VeraZabrodina2.JPG" width="280">
 <!-- ![](docs/VeraZabrodina.JPG) -->
 <!-- ![image](path-to-image.jpg){: style="float: left"} -->
 
@@ -14,7 +14,7 @@ Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https:
 
 My interests lie in health economics, labour economics, social insurance design and applied econometrics.
 
-Download my CV [here](docs/Zabrodina_CV_Nov2021.pdf). Get in touch by [email](mailto:vera.zabrodina@unibas.ch).
+Please download my CV [here](docs/Zabrodina_CV_Nov2021.pdf), or get in touch by [email](mailto:vera.zabrodina@unibas.ch). 
 
 
 I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
@@ -95,11 +95,11 @@ Before my doctoral studies, I worked as a research fellow in health economics at
 
 ## Teaching 
 
-- **Causal Inference for Policy Evaluation**, University of Basel (2021) 
+- **Causal Inference for Policy Evaluation**, M.Sc. and Ph.D., University of Basel (2021) 
 
-  For this course lectured by Conny Wunsch, Ulrike Unterhofer and I lead lab sessions where we teach Master's and Ph.D. students how to implement causal inference methods by replicating papers in R. 
+  For this course lectured by Conny Wunsch, Ulrike Unterhofer and I teach lab sessions where implement causal inference methods by replicating papers in R. 
 
-  Check out the materials on [GitHub](https://github.com/verazb/Hippo). 
+  Check out the lab session materials on [GitHub](https://github.com/verazb/Hippo). 
 
 
 - Applied Empirical Analysis, M.Sc. and Ph.D. (lab sessions and teaching assistance), University of Basel (2020)
@@ -107,6 +107,20 @@ Before my doctoral studies, I worked as a research fellow in health economics at
 - Empirical Research Methods in Labour Economics, M.Sc. and Ph.D. (lab sessions and teaching assistance), University of Basel  (2018, 2019)
 
 - Advanced Empirical Research Methods, M.Sc. and Ph.D. (teaching assistance), University of Basel (2018, 2019)
+
+
+***
+
+
+## Contact 
+
+Véra Zabrodina 
+Faculty of Business and Economics
+University of Basel
+Peter-Merian Weg 6 
+4002 Basel, Switzerland
+
+[Email](mailto:vera.zabrodina@unibas.ch)
 
 
 <!-- 
