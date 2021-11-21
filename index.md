@@ -3,11 +3,6 @@ layout: default
 --- 
 
 
-
-<img align="left" src="docs/VeraZabrodina2.JPG" width="280">
-<!-- ![](docs/VeraZabrodina.JPG) -->
-<!-- ![image](path-to-image.jpg){: style="float: left"} -->
-
 ## About
 
 Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https://wwz.unibas.ch/en/). 
@@ -33,6 +28,13 @@ Current topics include
 
 Before my doctoral studies, I worked as a research fellow in health economics at [Unisanté](https://www.unisante.ch/fr). 
 
+
+
+
+<img src="docs/VeraZabrodina2.JPG" width="300">
+<!-- ![](docs/VeraZabrodina.JPG) -->
+<!-- ![image](path-to-image.jpg){: style="float: left"} -->
+<!-- align="left" -->
 
 
 
