@@ -9,15 +9,6 @@ Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https:
 
 My interests lie in health economics, labour economics, social insurance design and applied econometrics.
 
-I study how individuals respond to the economic incentives created by health insurance, unemployment insurance, and income taxation systems. 
-Current topics include 
-- The strategic timing of healthcare consumption 
-- The design of unemployment insurance with heterogeneous responses to coverage generosity
-- The heterogeneity in labour supply responses of low-income workers. 
-
-In my research, I develop new causal identification designs derived from theoretical models, and implement them using large administrative datasets. 
-
-
 Please download my CV [here](docs/Zabrodina_CV_Nov2021.pdf), or get in touch by [email](mailto:vera.zabrodina@unibas.ch). 
 
 I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
@@ -40,6 +31,17 @@ Before my doctoral studies, I worked as a research fellow in health economics at
 
 
 ## Research 
+
+
+I study how individuals respond to the economic incentives created by health insurance, unemployment insurance, and income taxation systems. 
+Current topics include 
+- The strategic timing of healthcare consumption 
+- The design of unemployment insurance with heterogeneous responses to coverage generosity
+- The heterogeneity in labour supply responses of low-income workers. 
+
+In my research, I develop new causal identification designs derived from theoretical models, and implement them using large administrative datasets. 
+
+
  
 ### Working papers
 
