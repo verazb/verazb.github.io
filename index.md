@@ -9,9 +9,9 @@ Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https:
 
 My interests lie in health economics, labour economics, social insurance design and applied econometrics.
 
-Please download my CV [here](docs/Zabrodina_CV_Nov2021.pdf), or get in touch by [email](mailto:vera.zabrodina@unibas.ch). 
+Please find my CV [here](docs/Zabrodina_CV_Nov2021.pdf), or get in touch by [email](mailto:vera.zabrodina@unibas.ch). 
 
-I will be visiting the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
+I visited the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
 
 Before my doctoral studies, I worked as a research fellow in health economics at [Unisanté](https://www.unisante.ch/fr). 
 
@@ -37,9 +37,9 @@ I study how individuals respond to the economic incentives created by health ins
 Current topics include 
 - The strategic timing of healthcare consumption 
 - The design of unemployment insurance with heterogeneous responses to coverage generosity
-- The heterogeneity in labour supply responses of low-income workers. 
+- The labour supply responses of low-income workers to income tax incentives. 
 
-In my research, I develop new causal identification designs derived from theoretical models, and implement them using large administrative datasets. 
+In my research, I develop new causal identification designs derived from theoretical models, and implement them using large administrative or survey data. 
 
 
  
@@ -50,7 +50,7 @@ In my research, I develop new causal identification designs derived from theoret
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
     
-    This paper develops a new approach to identifying timing moral hazard in health insurance contracts when deductible choice is endogenous. I set up a dynamic model of healthcare consumption where individuals exceed a high deductible after a large health shock. I show that individuals either strategically prepone care from the year after the shock and keep a high deductible, or postpone and switch to a low deductible the year after. The identification of timing moral hazard exploits the randomness of shock timing within a calendar year and future prices. Empirical results show little evidence for timing moral hazard, but significant differences in switching to a lower deductible. This pattern suggests that there is limited scope for preponing care, and within-year incentives are more important than cross-year incentives in shaping healthcare consumption. 
+  This paper develops a new approach to identifying timing moral hazard in health insurance contracts when deductible choice is endogenous. I set up a dynamic model of healthcare consumption where individuals exceed a high deductible after a large health shock. I show that individuals either strategically prepone care from the year after the shock and keep a high deductible, or do not retime and switch to a low deductible the year after. The identification of timing moral hazard exploits the randomness of shock timing within a calendar year. Empirical results show quantitatively significant timing moral hazard responses, which decrease with the time left to the deductible reset. This pattern suggests that there are substantial frictions to preponing, and that dynamic changes in incentives matter in shaping strategic timing responses. 
 
   </details>
 
@@ -61,7 +61,7 @@ In my research, I develop new causal identification designs derived from theoret
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
     
-     This paper studies whether unemployed workers' responses to the generosity of unemployment insurance (UI) vary with age and social security contribution time. These two dimensions are used in many countries to differentiate the duration of UI coverage across workers, despite a lack of supportive evidence. We use administrative data from Germany and a multi-cutoff regression discontinuity design to estimate a comprehensive set of nonemployment duration and wage responses at many jumps in the potential benefit duration. We find that both duration responses and wage losses at reemployment significantly decrease with short-term contribution time. We find no significant gradient in age and long-term contribution time. This suggests that short-term contribution time is an important determinant of UI responses, and thus a relevant dimension for varying coverage duration. Our analysis thereby lays the foundations for finer and welfare-improving UI policy differentiation across workers. 
+     The generosity of unemployment insurance (UI) coverage varies with the worker's age and time contributed to social security in many publicly-funded UI systems, despite a lack of evidence on their relevance for UI policy differentiation. This paper studies whether the responses to UI and the implied fiscal externality vary in these two characteristics. We use administrative data from Germany and a multi-cutoff regression discontinuity design to estimate a comprehensive set of duration and wage elasticities at many discontinuities in potential benefit duration. We find that the fiscal externality of UI decreases with contribution time, but increases with age. These gradients are mainly driven by the duration effects of UI, as any wage effects are small. Our results suggest that both age and short-term contribution time are indeed important determinants of UI responses, and thus relevant for policy differentiation. The welfare cost of UI could be reduced by reallocating resources towards younger workers with stable employment histories. 
 
   </details>
 
@@ -70,10 +70,10 @@ In my research, I develop new causal identification designs derived from theoret
 
 ### Work in progress
 
+
+- Hours Mismatch and Income Tax Incentives for Low-Earning Workers (with [Ulrike Unterhofer](https://wwz.unibas.ch/en/persons/ulrike-unterhofer-1/)). 
+
 - The Optimal Time-Profile of Unemployment Insurance Benefits (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
-
-
-- Heterogeneous Labour Supply Elasticities and Inefficient Employment (with [Ulrike Unterhofer](https://wwz.unibas.ch/en/persons/ulrike-unterhofer-1/)). 
 
 
 
