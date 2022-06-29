@@ -1,5 +1,3 @@
-# My personal website
+Hi! I am Véra Zabrodina, a Ph.D. candidate in Economics at the University of Basel. 
 
-The site is based on the [minima](https://github.com/jekyll/minima) Jekyll theme. 
-
-Visit the live version [here](https://verazb.github.io/).
+Visit my personal website [here](https://verazb.github.io/).
