@@ -45,10 +45,8 @@ In my research, I develop new causal identification designs derived from theoret
  
 ### Working papers
 
-- Timing Moral Hazard under Deductibles in Health Insurance. --- draft available upon request
-
   <details style="margin-bottom:20px;">
-    <summary style="color:#2a7ae2;">Abstract</summary>
+    <summary style="color:#2a7ae2;">Timing Moral Hazard under Deductibles in Health Insurance. --- draft available upon request</summary>
     
   This paper develops a new approach to identifying timing moral hazard in health insurance contracts when deductible choice is endogenous. I set up a dynamic model of healthcare consumption where individuals exceed a high deductible after a large health shock. I show that individuals either strategically prepone care from the year after the shock and keep a high deductible, or do not retime and switch to a low deductible the year after. The identification of timing moral hazard exploits the randomness of shock timing within a calendar year. Empirical results show quantitatively large timing moral hazard responses. This behaviour can create important distortions in insurance markets by shifting healthcare costs onto the risk pool. The preponed amount decreases with the time left to the deductible reset. The insured do re-optimise on-the-go to minimise out-of-pocket costs, but face substantial frictions in retiming. 
 
