@@ -50,7 +50,7 @@ In my research, I develop new causal identification designs derived from theoret
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
     
-  This paper develops a new approach to identifying timing moral hazard in health insurance contracts when deductible choice is endogenous. I set up a dynamic model of healthcare consumption where individuals exceed a high deductible after a large health shock. I show that individuals either strategically prepone care from the year after the shock and keep a high deductible, or do not retime and switch to a low deductible the year after. The identification of timing moral hazard exploits the randomness of shock timing within a calendar year. Empirical results show quantitatively significant timing moral hazard responses, which decrease with the time left to the deductible reset. This pattern suggests that there are substantial frictions to preponing, and that dynamic changes in incentives matter in shaping strategic timing responses. 
+  This paper develops a new approach to identifying timing moral hazard in health insurance contracts when deductible choice is endogenous. I set up a dynamic model of healthcare consumption where individuals exceed a high deductible after a large health shock. I show that individuals either strategically prepone care from the year after the shock and keep a high deductible, or do not retime and switch to a low deductible the year after. The identification of timing moral hazard exploits the randomness of shock timing within a calendar year. Empirical results show quantitatively large timing moral hazard responses. This behaviour can create important distortions in insurance markets by shifting healthcare costs onto the risk pool. The preponed amount decreases with the time left to the deductible reset. The insured do re-optimise on-the-go to minimise out-of-pocket costs, but face substantial frictions in retiming. 
 
   </details>
 
@@ -61,17 +61,23 @@ In my research, I develop new causal identification designs derived from theoret
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
     
-     The generosity of unemployment insurance (UI) coverage varies with the worker's age and time contributed to social security in many publicly-funded UI systems, despite a lack of evidence on their relevance for UI policy differentiation. This paper studies whether the responses to UI and the implied fiscal externality vary in these two characteristics. We use administrative data from Germany and a multi-cutoff regression discontinuity design to estimate a comprehensive set of duration and wage elasticities at many discontinuities in potential benefit duration. We find that the fiscal externality of UI decreases with contribution time, but increases with age. These gradients are mainly driven by the duration effects of UI, as any wage effects are small. Our results suggest that both age and short-term contribution time are indeed important determinants of UI responses, and thus relevant for policy differentiation. The welfare cost of UI could be reduced by reallocating resources towards younger workers with stable employment histories. 
+     The generosity of unemployment insurance (UI) coverage varies with the worker's age and time contributed to social security in many publicly-funded UI systems, despite a lack of evidence on their relevance for UI policy differentiation. This paper studies whether the responses to UI and the implied fiscal externality vary in these two characteristics. We use administrative data from Germany and a multi-cutoff regression discontinuity design to estimate a comprehensive set of duration and wage elasticities at many discontinuities in potential benefit duration. We find that the fiscal externality of UI decreases with contribution time, but increases with age. These gradients are mainly driven by the duration effects of UI, as any wage effects are small. Our results suggest that both age and short-term contribution time are indeed important determinants of UI responses, and thus relevant for policy differentiation. The moral hazard cost of UI can be reduced by reallocating resources towards younger workers with stable employment histories. 
 
   </details>
 
   
 
+- Hours Mismatch and Income Tax Incentives for Low-Earning Workers (with [Ulrike Unterhofer](https://wwz.unibas.ch/en/persons/ulrike-unterhofer-1/)). --- draft available upon request
+  
+  <details style="margin-bottom:20px;">
+    <summary style="color:#2a7ae2;">Abstract</summary>
+    
+     Many workers do not work their desired number of hours, particularly in the low-earning segment. We study whether income tax notches generate hours mismatch in the context of mini jobs in Germany. These jobs are exempt from income and social security taxes up until a salient earnings threshold. We find substantial underemployment at the threshold, suggesting that it constrains many workers to work less than their optimum. A reform shifting the threshold upwards raised underemployment among mini jobbers. Workers increased their desired hours, but contracts adjusted through small increases in actual hours and wages. These findings are consistent with firms' hours constraints shaping job offers in the low-earning segment. They suggest that firms cater to workers' incentives to bunch, but overprovide mini jobs. While workers are able to achieve more favourable hours-wage packages in the adjustment, the aggravation in underemployment points to ambiguous effects on worker welfare.
+
+  </details>
+
 
 ### Work in progress
-
-
-- Hours Mismatch and Income Tax Incentives for Low-Earning Workers (with [Ulrike Unterhofer](https://wwz.unibas.ch/en/persons/ulrike-unterhofer-1/)). 
 
 - The Optimal Time-Profile of Unemployment Insurance Benefits (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
 
