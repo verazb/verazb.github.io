@@ -46,7 +46,7 @@ In my research, I develop new causal identification designs derived from theoret
 ### Working papers
 
 - Timing Moral Hazard under Deductibles in Health Insurance. --- draft available upon request
-- 
+
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
     
