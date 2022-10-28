@@ -5,7 +5,7 @@ layout: default
     
 ## About
 
-Welcome! I am a Ph.D. candidate in Economics at the [University of Basel](https://wwz.unibas.ch/en/). 
+Welcome! I am a Postdoc in Economics at the [University of Basel](https://wwz.unibas.ch/en/). 
 
 My interests lie in health economics, labour economics, social insurance design and applied econometrics.
 
@@ -101,7 +101,7 @@ In my research, I develop new causal identification designs derived from theoret
 
 ## Teaching 
 
-- **Causal Inference for Policy Evaluation**, M.Sc. and Ph.D., University of Basel (2021) 
+- **Causal Inference for Policy Evaluation**, M.Sc. and Ph.D., University of Basel (2021, 2022) 
 
   For this course lectured by Conny Wunsch, Ulrike Unterhofer and I teach lab sessions where we implement causal inference methods by replicating papers in R. 
 
