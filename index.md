@@ -11,7 +11,7 @@ My interests lie in health economics, labour economics, social insurance design 
 
 Please find my CV [here](docs/Zabrodina_CV.pdf), or get in touch by [email](mailto:vera.zabrodina@unibas.ch). 
 
-I visited the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, from January to March 2022. 
+I visited the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, in spring 2022. 
 
 Before my doctoral studies, I worked as a research fellow in health economics at [Unisanté](https://www.unisante.ch/fr). 
 
@@ -50,7 +50,7 @@ In my research, I develop new causal identification designs derived from theoret
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
     
-  This paper develops a new approach to identifying timing moral hazard in health insurance contracts when deductible choice is endogenous. I set up a dynamic model of healthcare consumption where individuals exceed a high deductible after a large health shock. I show that individuals either strategically prepone care from the year after the shock and keep a high deductible, or do not retime and switch to a low deductible the year after. The identification of timing moral hazard exploits the randomness of shock timing within a calendar year. Empirical results show quantitatively large timing moral hazard responses. This behaviour can create important distortions in insurance markets by shifting healthcare costs onto the risk pool. The preponed amount decreases with the time left to the deductible reset. The insured do re-optimise on-the-go to minimise out-of-pocket costs, but face substantial frictions in retiming. 
+  This paper develops a new approach to identifying to what extent individuals strategically time their healthcare consumption under deductibles in health insurance. I set up a dynamic model of healthcare consumption where individuals exceed a high deductible after a large health shock, and have an incentive to prepone care planned for the next year. The model elicits the links between timing and classical moral hazard responses, as well as deductible choice, and highlights trade-offs for insurance policy. It also serves to show that pure timing moral hazard can be identified using random variation in the timing of the health shock within the calendar year. Empirically, I find quantitatively large timing moral hazard in the context of mandatory health insurance in Switzerland. This  response can create important distortions in insurance markets by shifting out-of-pocket healthcare costs onto the risk pool. Its extent decreases with the time available until the deductible reset. The insured do re-optimise on-the-go after the shock, but face substantial frictions in retiming. 
 
   </details>
 
