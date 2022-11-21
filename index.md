@@ -19,8 +19,8 @@ Before my doctoral studies, I worked as a research fellow in health economics at
 <br />
 
 
-<img src="docs/VeraZabrodina.JPG" width="75%">
-<!-- ![](docs/VeraZabrodina.JPG) -->
+<img src="docs/VeraZabrodina3.JPG" width="75%">
+<!-- ![](docs/VeraZabrodina3.JPG) -->
 <!-- ![image](path-to-image.jpg){: style="float: left"} -->
 <!-- align="left" -->
 
