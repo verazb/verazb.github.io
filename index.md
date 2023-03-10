@@ -44,32 +44,30 @@ In my research, I develop new causal identification designs derived from theoret
  
 ### Working papers
 
-- Timing Moral Hazard under Deductibles in Health Insurance. --- draft available upon request
+- **Timing Moral Hazard under Deductibles in Health Insurance,** --- draft available upon request
 
-  <details style="margin-bottom:20px;">
-    <summary style="color:#2a7ae2;">Abstract</summary>
-    
+<!--   <details style="margin-bottom:20px;">
+    <summary style="color:#2a7ae2;">Abstract</summary> -->
+  <br />
+
   This paper develops a new approach to identifying to what extent individuals strategically time their healthcare consumption under deductibles in health insurance. I set up a dynamic model of healthcare consumption where individuals exceed a high deductible after a large health shock, and have an incentive to prepone care planned for the next year. The model elicits the links between timing and classical moral hazard responses, as well as deductible choice, and highlights trade-offs for insurance policy. It also serves to show that pure timing moral hazard can be identified using random variation in the timing of the health shock within the calendar year. Empirically, I find quantitatively large timing moral hazard in the context of mandatory health insurance in Switzerland. This  response can create important distortions in insurance markets by shifting out-of-pocket healthcare costs onto the risk pool. Its extent decreases with the time available until the deductible reset. The insured do re-optimise on-the-go after the shock, but face substantial frictions in retiming. 
 
-  </details>
 
 
 
-- Unemployment Insurance with Response Heterogeneity (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). --- draft available upon request
+
+- **Unemployment Insurance with Response Heterogeneity (with [Conny Wunsch](https://sites.google.com/view/cwunsch)),** --- draft available upon request
   
-  <details style="margin-bottom:20px;">
-    <summary style="color:#2a7ae2;">Abstract</summary>
-    
+<br />
+
      The generosity of unemployment insurance (UI) coverage varies with the worker's age and time contributed to social security in many publicly-funded UI systems, despite a lack of evidence on their relevance for UI policy differentiation. This paper studies whether the responses to UI and the implied fiscal externality vary in these two characteristics. We use administrative data from Germany and a multi-cutoff regression discontinuity design to estimate a comprehensive set of duration and wage elasticities at many discontinuities in potential benefit duration. We find that the fiscal externality of UI decreases with contribution time, but increases with age. These gradients are mainly driven by the duration effects of UI, as any wage effects are small. Our results suggest that both age and short-term contribution time are indeed important determinants of UI responses, and thus relevant for policy differentiation. The moral hazard cost of UI can be reduced by reallocating resources towards younger workers with stable employment histories. 
 
-  </details>
+
 
   
 
-- Hours Mismatch and Income Tax Incentives for Low-Earning Workers (with [Ulrike Unterhofer](https://wwz.unibas.ch/en/persons/ulrike-unterhofer-1/)). --- draft available upon request
+- **Hours Mismatch and Income Tax Incentives for Low-Earning Workers (with [Ulrike Unterhofer](https://wwz.unibas.ch/en/persons/ulrike-unterhofer-1/)),** --- draft available upon request
   
-  <details style="margin-bottom:20px;">
-    <summary style="color:#2a7ae2;">Abstract</summary>
     
      Many workers do not work their desired number of hours, particularly in the low-earning segment. We study whether income tax notches generate hours mismatch in the context of mini jobs in Germany. These jobs are exempt from income and social security taxes up until a salient earnings threshold. We find substantial underemployment at the threshold, suggesting that it constrains many workers to work less than their optimum. A reform shifting the threshold upwards raised underemployment among mini jobbers. Workers increased their desired hours, but contracts adjusted through small increases in actual hours and wages. These findings are consistent with firms' hours constraints shaping job offers in the low-earning segment. They suggest that firms cater to workers' incentives to bunch, but overprovide mini jobs. While workers are able to achieve higher earnings in the adjustment, the aggravation in underemployment points to ambiguous effects on worker welfare.
 
