@@ -5,16 +5,15 @@ layout: default
     
 ## About
 
-Welcome! I am a Postdoc in Economics at the [University of Basel](https://wwz.unibas.ch/en/). 
+Welcome! I am a Postdoc in Economics at the [University of Basel](https://wwz.unibas.ch/en/), where I got my PhD in October 2022.  
 
-My interests lie in health economics, labour economics, social insurance design and applied econometrics.
-
-Please find my CV [here](docs/Zabrodina_CV.pdf), or get in touch by [email](mailto:vera.zabrodina@unibas.ch). 
+My interests lie in health, labour, and public economics.
 
 I visited the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, in spring 2022. 
 
 Before my doctoral studies, I worked as a research fellow in health economics at [Unisanté](https://www.unisante.ch/fr). 
 
+Please find my CV [here](docs/Zabrodina_CV.pdf), or get in touch by [email](mailto:vera.zabrodina@unibas.ch). 
 
 <br />
 
