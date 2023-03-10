@@ -100,12 +100,7 @@ In my research, I develop new causal identification designs derived from theoret
 
 ## Teaching 
 
-- **Causal Inference for Policy Evaluation**, M.Sc. and Ph.D., University of Basel (2021, 2022) 
-
-  For this course lectured by Conny Wunsch, Ulrike Unterhofer and I teach lab sessions where we implement causal inference methods by replicating papers in R. 
-
-  Check out the lab session materials on [GitHub](https://github.com/verazb/Hippo). 
-
+- Causal Inference for Policy Evaluation, M.Sc. and Ph.D., University of Basel (2021, 2022) 
 
 - Applied Empirical Analysis, M.Sc. and Ph.D. (lab sessions and teaching assistance), University of Basel (2020)
 
