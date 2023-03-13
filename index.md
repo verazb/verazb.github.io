@@ -10,10 +10,11 @@ Welcome! I am a Postdoc in Economics at the [University of Basel](https://wwz.un
 My interests lie in health, labour, and public economics.
 
 I visited the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, in spring 2022. 
-
 Before my doctoral studies, I worked as a research fellow in health economics at [Unisanté](https://www.unisante.ch/fr). 
 
-Please find my CV [here](docs/Zabrodina_CV.pdf), or get in touch by [email](mailto:vera.zabrodina@unibas.ch). 
+**[CV](docs/Zabrodina_CV.pdf)**
+
+**[email](mailto:vera.zabrodina@unibas.ch)**
 
 <br />
 
@@ -34,9 +35,9 @@ Please find my CV [here](docs/Zabrodina_CV.pdf), or get in touch by [email](mail
 
 I study how individuals respond to the economic incentives created by health insurance, unemployment insurance, and income taxation systems. 
 Current topics include 
-- The strategic timing of healthcare consumption 
-- The design of unemployment insurance with heterogeneous responses to coverage generosity
-- The labour supply responses of low-income workers to income tax incentives. 
+- The strategic timing of healthcare consumption and its implication for health insurance design 
+- The optimal differentiation of unemployment insurance coverage depending on age and time in employment 
+- The impact of income taxation on low-earning workers' hours mismatch 
 
 In my research, I develop new causal identification designs derived from theoretical models, and implement them using large administrative or survey data. 
 
