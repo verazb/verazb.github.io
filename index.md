@@ -5,16 +5,17 @@ layout: default
     
 ## About
 
-Welcome! I am a Postdoc in Economics at the [University of Basel](https://wwz.unibas.ch/en/), where I got my PhD in October 2022.  
+Welcome! I am a postdoc in economics at the [University of Basel](https://wwz.unibas.ch/en/), where I got my PhD in October 2022.  
 
-My interests lie in health, labour, and public economics.
+My research lies in health, labour, and public economics. I study the optimal design of social insurance and taxation systems. To this end, I develop theoretical models that motivate new causal identification designs, and implement them using large administrative or survey data. 
 
 I visited the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, in spring 2022. 
-Before my doctoral studies, I worked as a research fellow in health economics at [Unisanté](https://www.unisante.ch/fr). 
 
 **[CV](docs/Zabrodina_CV.pdf)**
 
-**[email](mailto:vera.zabrodina@unibas.ch)**
+**[Email](mailto:vera.zabrodina@unibas.ch)**
+
+I was awarded the second place for the [iHEA Student Paper Prize](https://healtheconomics.org/awards/) in 2023. 
 
 <br />
 
@@ -31,21 +32,10 @@ Before my doctoral studies, I worked as a research fellow in health economics at
 
 
 ## Research 
-
-
-I study how individuals respond to the economic incentives created by health insurance, unemployment insurance, and income taxation systems. 
-Current topics include 
-- The strategic timing of healthcare consumption and its implication for health insurance design 
-- The optimal differentiation of unemployment insurance coverage depending on age and time in employment 
-- The impact of income taxation on low-earning workers' hours mismatch 
-
-In my research, I develop new causal identification designs derived from theoretical models, and implement them using large administrative or survey data. 
-
-
  
 ### Working papers
 
-- Timing Moral Hazard under Deductibles in Health Insurance. --- draft available upon request
+- [Timing Moral Hazard under Deductibles in Health Insurance](https://www.york.ac.uk/media/economics/documents/hedg/workingpapers/2022/2223_updated.pdf).
 
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
