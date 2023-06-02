@@ -91,13 +91,13 @@ I was awarded the second place for the [iHEA Student Paper Prize](https://health
 
 ## Teaching 
 
-- Causal Inference for Policy Evaluation, M.Sc. and Ph.D., University of Basel (2021, 2022) 
+- Causal Inference for Policy Evaluation, MSc and PhD, University of Basel (2021, 2022) 
 
-- Applied Empirical Analysis, M.Sc. and Ph.D. (lab sessions and teaching assistance), University of Basel (2020)
+- Applied Empirical Analysis, MSc and PhD, University of Basel (2020)
 
-- Empirical Research Methods in Labour Economics, M.Sc. and Ph.D. (lab sessions and teaching assistance), University of Basel  (2018, 2019)
+- Empirical Research Methods in Labour Economics, MSc and PhD, University of Basel  (2018, 2019)
 
-- Advanced Empirical Research Methods, M.Sc. and Ph.D. (teaching assistance), University of Basel (2018, 2019)
+- Advanced Empirical Research Methods, MSc and PhD, University of Basel (2018, 2019)
 
 
 ***
@@ -107,7 +107,9 @@ I was awarded the second place for the [iHEA Student Paper Prize](https://health
 
 Véra Zabrodina 
 
-Faculty of Business and Economics, University of Basel
+University of Basel
+
+Faculty of Business and Economics
 
 Peter-Merian Weg 6, 4002 Basel, Switzerland
 
