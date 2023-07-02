@@ -7,7 +7,7 @@ layout: default
 
 Welcome! I am a postdoc in economics at the [University of Basel](https://wwz.unibas.ch/en/), where I got my PhD in October 2022. I visited the University of California, Berkeley, in spring 2022. 
 
-My research lies in health, labour, and public economics. I study the optimal design of social insurance and taxation systems. To this end, I develop theoretical models that motivate new causal identification designs, and implement them using large administrative or survey data. 
+My research lies in health, labour, and public economics. I study the optimal design of social insurance and taxation systems. I develop theoretical models that motivate new causal identification designs, and implement them using large administrative or survey data. 
 
 I was awarded the [iHEA Student Paper Prize](https://healtheconomics.org/awards/) 2nd place, as well as the [Young Swiss Economist Award](https://www.sgvs.ch/awards/) from the Swiss Society of Economics and Statistics in 2023. 
 
