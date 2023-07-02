@@ -9,7 +9,7 @@ Welcome! I am a postdoc in economics at the [University of Basel](https://wwz.un
 
 My research lies in health, labour, and public economics. I study the optimal design of social insurance and taxation systems. I develop theoretical models that motivate new causal identification designs, and implement them using large administrative or survey data. 
 
-I was awarded the [iHEA Student Paper Prize](https://healtheconomics.org/awards/) 2nd place, as well as the [Young Swiss Economist Award](https://www.sgvs.ch/awards/) from the Swiss Society of Economics and Statistics in 2023. 
+I was awarded the [Student Paper Prize](https://healtheconomics.org/awards/) 2nd place from the International Health Economics Association, as well as the [Young Swiss Economist Award](https://www.sgvs.ch/awards/) from the Swiss Society of Economics and Statistics in 2023. 
 
 
 **[CV](docs/Zabrodina_CV.pdf)**
