@@ -15,7 +15,7 @@ I visited the [Center for Labor Economics](http://cle.berkeley.edu/) at the Univ
 
 **[Email](mailto:vera.zabrodina@unibas.ch)**
 
-I was awarded the second place for the [iHEA Student Paper Prize](https://healtheconomics.org/awards/) in 2023. 
+I was awarded the [iHEA Student Paper Prize](https://healtheconomics.org/awards/) 2nd place, as well as the [Young Swiss Economist Award](https://www.sgvs.ch/awards/) from the Swiss Society of Economics and Statistics in 2023. 
 
 <br />
 
