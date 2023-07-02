@@ -11,11 +11,14 @@ My research lies in health, labour, and public economics. I study the optimal de
 
 I visited the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, in spring 2022. 
 
+
+I was awarded the [iHEA Student Paper Prize](https://healtheconomics.org/awards/) 2nd place, as well as the [Young Swiss Economist Award](https://www.sgvs.ch/awards/) from the Swiss Society of Economics and Statistics in 2023. 
+
+
 **[CV](docs/Zabrodina_CV.pdf)**
 
 **[Email](mailto:vera.zabrodina@unibas.ch)**
 
-I was awarded the [iHEA Student Paper Prize](https://healtheconomics.org/awards/) 2nd place, as well as the [Young Swiss Economist Award](https://www.sgvs.ch/awards/) from the Swiss Society of Economics and Statistics in 2023. 
 
 <br />
 
