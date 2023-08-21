@@ -5,17 +5,17 @@ layout: default
     
 ## About
 
-Welcome! I am a postdoc in economics at the [University of Basel](https://wwz.unibas.ch/en/), where I got my PhD in October 2022.  
+Welcome! I am a postdoc in economics at the [University of Basel](https://wwz.unibas.ch/en/), where I got my PhD in October 2022. I visited the University of California, Berkeley, in spring 2022. 
 
-My research lies in health, labour, and public economics. I study the optimal design of social insurance and taxation systems. To this end, I develop theoretical models that motivate new causal identification designs, and implement them using large administrative or survey data. 
+My research lies in health, labour, and public economics. I study the optimal design of social insurance and taxation systems. I develop theoretical models that motivate new causal identification designs, and implement them using large administrative or survey data. 
 
-I visited the [Center for Labor Economics](http://cle.berkeley.edu/) at the University of California, Berkeley, in spring 2022. 
+I was awarded the Student Paper Prize 2nd place from the [International Health Economics Association](https://healtheconomics.org/awards/), as well as the Young Economist Award from the [Swiss Society of Economics and Statistics](https://www.sgvs.ch/awards/) in 2023. 
+
 
 **[CV](docs/Zabrodina_CV.pdf)**
 
 **[Email](mailto:vera.zabrodina@unibas.ch)**
 
-I was awarded the second place for the [iHEA Student Paper Prize](https://healtheconomics.org/awards/) in 2023. 
 
 <br />
 
