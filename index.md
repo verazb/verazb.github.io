@@ -35,7 +35,7 @@ I was awarded the Student Paper Prize 2nd place from the [International Health E
  
 ### Working papers
 
-- [Timing Moral Hazard under Deductibles in Health Insurance](https://www.york.ac.uk/media/economics/documents/hedg/workingpapers/2022/2223_updated.pdf).
+- **[Timing Moral Hazard under Deductibles in Health Insurance]**(https://www.york.ac.uk/media/economics/documents/hedg/workingpapers/2022/2223_updated.pdf).
 
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
@@ -46,18 +46,18 @@ I was awarded the Student Paper Prize 2nd place from the [International Health E
 
 
 
-- Unemployment Insurance with Response Heterogeneity (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). --- draft available upon request
+- **[Unemployment Insurance with Response Heterogeneity]**(docs/Wunsch_Zabrodina_UI.pdf) (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
   
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
     
-  This paper examines the heterogeneity in responses to unemployment insurance (UI) depending on workers' age and duration of contribution to social security. It then explores implications for differentiating UI generosity. In many public UI systems, the potential benefit duration increases with age subject to contribution time requirements. We estimate the responses and implied fiscal externality using many discontinuities in benefit duration in the German context. Our findings reveal that age and contribution time carry information on job search behavior that is relevant for targeting benefits. The negative fiscal externality rises with age due to higher transfer costs. It diminishes with longer contribution time as workers with stable employment exhibit a reduced moral hazard response. By balancing these gradients with an approximated insurance value, our analysis suggests that reducing benefit duration for older workers and increasing it for prime-age workers with stable employment could enhance welfare.
+  The generosity of social insurance coverage often increases with the beneficiary's age and their contribution time to social security, but existing policies vary considerably. We study the differentiation of unemployment insurance (UI) generosity by evaluating how the insurance-incentive trade-off varies with age and contribution time. We exploit numerous discontinuities in potential benefit duration in Germany. Contribution time in the last three years carries information on job search efforts, as it is associated with lower moral hazard responses and fiscal externality. We find no significant response heterogeneity in age or longer contribution time horizons. Contrasting these gradients with an approximated insurance value for four UI regimes, we document that steepening the PBD schedule in contribution time and flattening it in age would have increased welfare.
 
   </details>
 
   
 
-- Hours Mismatch and Income Tax Incentives for Low-Earning Workers (with [Ulrike Unterhofer](https://wwz.unibas.ch/en/persons/ulrike-unterhofer-1/)). --- draft available upon request
+- **Hours Mismatch and Income Tax Incentives for Low-Earning Workers** (with [Ulrike Unterhofer](https://wwz.unibas.ch/en/persons/ulrike-unterhofer-1/)). --- draft available upon request
   
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
