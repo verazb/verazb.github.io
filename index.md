@@ -35,7 +35,7 @@ I was awarded the Student Paper Prize 2nd place from the [International Health E
  
 ### Working papers
 
-- **[Timing Moral Hazard under Deductibles in Health Insurance]**(https://www.york.ac.uk/media/economics/documents/hedg/workingpapers/2022/2223_updated.pdf).
+- **[Timing Moral Hazard under Deductibles in Health Insurance](https://www.york.ac.uk/media/economics/documents/hedg/workingpapers/2022/2223_updated.pdf)**.
 
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
@@ -46,7 +46,7 @@ I was awarded the Student Paper Prize 2nd place from the [International Health E
 
 
 
-- **[Unemployment Insurance with Response Heterogeneity]**(docs/Wunsch_Zabrodina_UI.pdf) (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
+- **[Unemployment Insurance with Response Heterogeneity](docs/Wunsch_Zabrodina_UI.pdf)** (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
   
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
