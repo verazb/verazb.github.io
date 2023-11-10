@@ -35,12 +35,12 @@ I was awarded the Student Paper Prize 2nd place from the [International Health E
  
 ### Working papers
 
-- **[Timing Moral Hazard under Deductibles in Health Insurance](https://www.york.ac.uk/media/economics/documents/hedg/workingpapers/2022/2223_updated.pdf)**  
+- **[Timing Moral Hazard under Deductibles in Health Insurance](docs/Zabrodina_JMP.pdf)**  (Job market paper)
 
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
     
-  This paper develops a new approach to identifying to what extent individuals strategically time their healthcare consumption under deductibles in health insurance. I set up a dynamic model of healthcare consumption where individuals exceed a high deductible after a large health shock, and have an incentive to prepone care planned for the next year. The model elicits the links between timing and classical moral hazard responses, as well as deductible choice, and highlights trade-offs for insurance policy. It also serves to show that pure timing moral hazard can be identified using random variation in the timing of the health shock within the calendar year. Empirically, I find quantitatively large timing moral hazard in the context of mandatory health insurance in Switzerland. This  response can create important distortions in insurance markets by shifting out-of-pocket healthcare costs onto the risk pool. Its extent decreases with the time available until the deductible reset. The insured do re-optimise on-the-go after the shock, but face substantial frictions in retiming. 
+  This paper evaluates whether individuals strategically time their healthcare consumption to reduce out-of-pocket costs, and the frictions they face in doing so. I set up a dynamic model of healthcare consumption in which individuals suffer a large health shock, exceed their deductible, and have an incentive to advance care from the following year. The model provides a sufficient statistic for timing moral hazard by comparing the consumption of individuals with shocks at random times within the coverage year. It also shows that advancing care mitigates classical moral hazard and adverse selection the following year. This insight highlights important trade-offs for insurance market design. In the context of mandatory health insurance in Switzerland, I find substantial timing moral hazard, though with strong dynamic frictions. The shorter the time horizon, the less care is advanced. The timing of health risk realizations has important implications for cost-sharing and insurance premiums.
 
   </details>
 
