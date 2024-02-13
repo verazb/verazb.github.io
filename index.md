@@ -35,7 +35,7 @@ I was awarded the Student Paper Prize 2nd place from the [International Health E
  
 ### Working papers
 
-- **[Timing Moral Hazard under Deductibles in Health Insurance](docs/Zabrodina_JMP.pdf)**  (Job market paper)
+- **[Timing Moral Hazard under Deductibles in Health Insurance](docs/Zabrodina_JMP.pdf)** 
 
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
@@ -91,7 +91,7 @@ I was awarded the Student Paper Prize 2nd place from the [International Health E
 
 ## Teaching 
 
-- Causal Inference for Policy Evaluation, MSc and PhD, University of Basel (2021, 2022) 
+- Causal Inference for Policy Evaluation, MSc and PhD, University of Basel (2021-2024) 
 
 - Applied Empirical Analysis, MSc and PhD, University of Basel (2020)
 
