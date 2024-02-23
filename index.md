@@ -35,7 +35,7 @@ I was awarded the Student Paper Prize 2nd place from the [International Health E
  
 ### Working papers
 
-- **[Timing Moral Hazard under Deductibles in Health Insurance](docs/Zabrodina_JMP.pdf)** 
+- **[Timing Moral Hazard under Deductibles in Health Insurance](docs/Zabrodina_TMH.pdf)** 
 
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
