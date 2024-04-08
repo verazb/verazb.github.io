@@ -5,11 +5,11 @@ layout: default
     
 ## About
 
-Welcome! I am a postdoc in economics at the [University of Basel](https://wwz.unibas.ch/en/), where I got my PhD in September 2022. 
+I am a postdoctoral researcher in economics at the [University of Basel](https://wwz.unibas.ch/en/), where I got my PhD in September 2022. 
 
 My research lies in health, labor, and public economics. I study the design of insurance markets and taxation systems. I develop theoretical models that motivate new causal identification designs, and implement them using large administrative or survey data. 
 
-I was awarded the Student Paper Prize 2nd place from the [International Health Economics Association](https://healtheconomics.org/awards/), as well as the Young Economist Award from the [Swiss Society of Economics and Statistics](https://www.sgvs.ch/awards/) in 2023. 
+In September 2024, I will be joining UC Berkeley as a postdoctoral fellow, funded by the Swiss National Science Foundation.
 
 
 **[CV](docs/Zabrodina_CV.pdf)**
@@ -44,6 +44,7 @@ I was awarded the Student Paper Prize 2nd place from the [International Health E
 
   </details>
 
+  This paper earned the Young Economist Award from the [Swiss Society of Economics and Statistics](https://www.sgvs.ch/awards/), as well as the Student Paper Prize 2nd place from the [International Health Economics Association](https://healtheconomics.org/awards/) in 2023.
 
 
 - **[Unemployment Insurance with Response Heterogeneity](https://docs.iza.org/dp16509.pdf)** (with [Conny Wunsch](https://sites.google.com/view/cwunsch)) 
