@@ -5,22 +5,19 @@ layout: default
     
 ## About
 
-I am a postdoctoral researcher in economics at the [University of Basel](https://wwz.unibas.ch/en/), where I got my PhD in September 2022. 
+I am a postdoctoral researcher in economics at the University of California, Berkeley, with a focus on labor economics, health economics and public finance. I received my PhD in economics from the University of Basel in 2022. 
 
-My research lies in health, labor, and public economics. I study the design of insurance markets and taxation systems. I develop theoretical models that motivate new causal identification designs, and implement them using large administrative or survey data. 
-
-In September 2024, I will be joining UC Berkeley as a postdoctoral fellow, funded by the Swiss National Science Foundation.
-
+My research examines the functioning of insurance markets and transfer systems. In particular, I develop theoretical models and empirical tests to uncover sources of asymmetric information and their implications for social insurance design. 
 
 **[CV](docs/Zabrodina_CV.pdf)**
 
-**[Email](mailto:vera.zabrodina@unibas.ch)**
+**[zabrodina [at] berkeley.edu](mailto:zabrodina@berkeley.edu)**
 
 
 <br />
 
 
-<img src="docs/VeraZabrodina3.JPG" width="75%">
+<img src="docs/VeraZabrodina3.JPG" width="60%">
 <!-- ![](docs/VeraZabrodina3.JPG) -->
 <!-- ![image](path-to-image.jpg){: style="float: left"} -->
 <!-- align="left" -->
@@ -47,7 +44,7 @@ In September 2024, I will be joining UC Berkeley as a postdoctoral fellow, funde
   This paper earned the Young Economist Award from the [Swiss Society of Economics and Statistics](https://www.sgvs.ch/awards/), as well as the Student Paper Prize 2nd place from the [International Health Economics Association](https://healtheconomics.org/awards/) in 2023.
 
 
-- **[Unemployment Insurance with Response Heterogeneity](https://docs.iza.org/dp16509.pdf)** (with [Conny Wunsch](https://sites.google.com/view/cwunsch)) 
+- **[Unemployment Insurance Differentiation in Age and Contribution Time](https://docs.iza.org/dp16509.pdf)** (with [Conny Wunsch](https://sites.google.com/view/cwunsch)) [New draft coming soon]
   
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
@@ -58,7 +55,7 @@ In September 2024, I will be joining UC Berkeley as a postdoctoral fellow, funde
 
   
 
-- **Hours Mismatch and Income Tax Incentives for Low-Earning Workers** (with [Ulrike Unterhofer](https://wwz.unibas.ch/en/persons/ulrike-unterhofer-1/)) --- draft available upon request
+- **[Income Tax Notches and Working Hours Mismatch: Evidence from Mini Jobs in Germany](docs/Unterhofer_Zabrodina_minijobs.pdfs)** (with Ulrike Unterhofer) 
   
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
@@ -70,6 +67,8 @@ In September 2024, I will be joining UC Berkeley as a postdoctoral fellow, funde
 
 ### Work in progress
 
+- Unemployment Insurance and Exits from Employment (with [Conny Wunsch](https://sites.google.com/view/cwunsch) and Jeffrey Grogger). 
+
 - The Optimal Time-Profile of Unemployment Insurance Benefits (with [Conny Wunsch](https://sites.google.com/view/cwunsch)). 
 
 
@@ -79,6 +78,8 @@ In September 2024, I will be joining UC Berkeley as a postdoctoral fellow, funde
 - Zabrodina, Véra, Mark Dusheiko, and Karine Moschetti (2020). [A Moneymaking Scan: Dual Reimbursement Systems and Supplier-Induced Demand for Diagnostic Imaging](https://doi.org/10.1002/hec.4152). _Health Economics_, 29(12):1566--1585. 
 
   This paper won the iHEA Early Career Researcher Best Paper Prize. <!-- Check out the [follow-up interview](https://www.healtheconomics.org/page/ECRVeraZabrodina) by the iHEA Early Career Researcher Special Interest Group (ECR-SIG). -->
+
+Pre-doctoral publications
 
 - Moschetti, Karine, Véra Zabrodina, Tenzin Wangmo, Alberto Holly, Jean-Blaise Wasserfallen, Bernice S. Elger, and Bruno Gravier (2018). [The determinants of healthcare expenditures of prisoners: Evidence from Switzerland](https://doi.org/10.1186/s12913-018-2962-8). _BMC Health Services Research_, 18:160. 
 
@@ -103,23 +104,3 @@ In September 2024, I will be joining UC Berkeley as a postdoctoral fellow, funde
 
 ***
 
-
-## Contact 
-
-Véra Zabrodina 
-
-University of Basel
-
-Faculty of Business and Economics
-
-Peter-Merian Weg 6, 4002 Basel, Switzerland
-
-[Email](mailto:vera.zabrodina@unibas.ch)
-
-
-<!-- 
-***
-
-
-### Other 
- -->
