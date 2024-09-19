@@ -28,7 +28,7 @@ My research examines the functioning of insurance markets and transfer systems. 
 ***
 
 
-## Research 
+## Research
  
 ### Working papers
 
@@ -44,7 +44,7 @@ My research examines the functioning of insurance markets and transfer systems. 
   This paper earned the Young Economist Award from the [Swiss Society of Economics and Statistics](https://www.sgvs.ch/awards/), as well as the Student Paper Prize 2nd place from the [International Health Economics Association](https://healtheconomics.org/awards/) in 2023.
 
 
-- **[Unemployment Insurance with Response Heterogeneity](https://docs.iza.org/dp16509.pdf)** (with [Conny Wunsch](https://sites.google.com/view/cwunsch)) [New draft coming soon]
+- **[Unemployment Insurance with Policy Differentiation](docs/Wunsch_Zabrodina_UI.pdf)** (with [Conny Wunsch](https://sites.google.com/view/cwunsch)) [New draft coming soon]
   
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
@@ -91,7 +91,7 @@ Pre-doctoral publications
 ***
 
 
-## Teaching 
+## Teaching
 
 - Causal Inference for Policy Evaluation, MSc and PhD, University of Basel (2021-2024) 
 
