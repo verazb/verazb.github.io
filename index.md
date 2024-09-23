@@ -5,9 +5,9 @@ layout: default
     
 ## About
 
-I am a postdoctoral researcher in the Department of Economics at the [University of California, Berkeley](https://www.econ.berkeley.edu/), with a focus on labor economics, health economics and public finance. I received my PhD in economics from the University of Basel in 2022. 
+I am a postdoctoral researcher in the Department of Economics at the [University of California, Berkeley](https://www.econ.berkeley.edu/), funded by the Swiss National Science Foundation. I received my PhD in economics from the University of Basel in 2022. 
 
-My research examines the functioning of insurance markets and transfer systems. In particular, I develop theoretical models and empirical tests to uncover sources of asymmetric information and their implications for social insurance design. 
+My research interests lie in public finance, health and labor economics. I examine the functioning of insurance markets and transfer systems. In particular, I develop theoretical models and empirical tests to uncover sources of asymmetric information and their implications for social insurance design. 
 
 **[CV](docs/Zabrodina_CV.pdf)**
 
