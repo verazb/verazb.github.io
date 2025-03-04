@@ -13,6 +13,8 @@ My research interests lie in public finance, health and labor economics. I exami
 
 **[CV](docs/Zabrodina_CV.pdf)**
 
+**[Resume](docs/Zabrodina_resume.pdf)**
+
 **[Email](mailto:zabrodina@berkeley.edu)**
 
 
