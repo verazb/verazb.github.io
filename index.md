@@ -5,7 +5,7 @@ layout: default
     
 ## About
 
-I am a postdoctoral researcher in the Department of Economics at the [University of California, Berkeley](https://www.econ.berkeley.edu/). I have a PhD in economics from the University of Basel, Switzerland. 
+I am a postdoctoral fellow in the Department of Economics at the [University of California, Berkeley](https://www.econ.berkeley.edu/). I have a PhD in economics from the University of Basel, Switzerland. 
 
 My research interests lie in public finance, health and labor economics. I examine the functioning of insurance markets and transfer systems. In recent work, I analyze how dynamic pricing incentives shape demand, benefit claims timing, and plan selection in health and unemployment insurance. I also study how unemployment insurance and tax policy affect labor supply and labor market outcomes.
 
