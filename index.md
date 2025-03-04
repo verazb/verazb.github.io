@@ -9,13 +9,13 @@ I am a postdoctoral researcher in the Department of Economics at the [University
 
 My research interests lie in public finance, health and labor economics. I examine the functioning of insurance markets and transfer systems. In recent work, I analyze how dynamic pricing incentives shape demand, benefit claims timing, and plan selection in health and unemployment insurance. I also study how unemployment insurance and tax policy affect labor supply and labor market outcomes.
 
-
+**[Email](mailto:zabrodina@berkeley.edu)**
 
 **[CV](docs/Zabrodina_CV.pdf)**
 
 **[Resume](docs/Zabrodina_resume.pdf)**
 
-**[Email](mailto:zabrodina@berkeley.edu)**
+
 
 
 <br />
