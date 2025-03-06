@@ -50,7 +50,7 @@ In recent work, I analyze how dynamic pricing incentives shape demand, benefit c
   This paper earned the Young Economist Award from the [Swiss Society of Economics and Statistics](https://www.sgvs.ch/awards/), as well as the Student Paper Prize from the [International Health Economics Association](https://healtheconomics.org/awards/) in 2023.
 
 
-- **[Unemployment Insurance with Policy Differentiation](docs/Wunsch_Zabrodina_UI.pdf)** (with [Conny Wunsch](https://sites.google.com/view/cwunsch)), *submitted*.
+- **[Unemployment Insurance with Policy Differentiation](docs/Wunsch_Zabrodina_UI.pdf)** (with [Conny Wunsch](https://sites.google.com/view/cwunsch)), *Revise and resubmit, Review of Economic Studies*.
   
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
@@ -61,7 +61,7 @@ In recent work, I analyze how dynamic pricing incentives shape demand, benefit c
 
   
 
-- **[Income Tax Notches and Working Hours Mismatch: Evidence from Mini Jobs in Germany](docs/Unterhofer_Zabrodina_minijobs.pdf)** (with Ulrike Unterhofer), *R&R at the Journal of Human Resources*
+- **[Income Tax Notches and Working Hours Mismatch: Evidence from Mini Jobs in Germany](docs/Unterhofer_Zabrodina_minijobs.pdf)** (with Ulrike Unterhofer), *Revise and resubmit, Journal of Human Resources*
   
   <details style="margin-bottom:20px;">
     <summary style="color:#2a7ae2;">Abstract</summary>
