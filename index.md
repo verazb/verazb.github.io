@@ -15,7 +15,7 @@ In recent work, I analyze how dynamic pricing incentives shape demand, benefit c
 
 **[CV](docs/Zabrodina_CV.pdf)**
 
-**[Resume](docs/Zabrodina_Resume.pdf)**
+<!-- **[Resume](docs/Zabrodina_Resume.pdf)** -->
 
 
 
