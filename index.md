@@ -89,8 +89,6 @@ In recent work, I analyze how dynamic pricing incentives shape demand, benefit c
 
   This paper won the iHEA Early Career Researcher Best Paper Prize. <!-- Check out the [follow-up interview](https://www.healtheconomics.org/page/ECRVeraZabrodina) by the iHEA Early Career Researcher Special Interest Group (ECR-SIG). -->
 
-Pre-doctoral publications
-
 - Moschetti, Karine, Véra Zabrodina, Tenzin Wangmo, Alberto Holly, Jean-Blaise Wasserfallen, Bernice S. Elger, and Bruno Gravier (2018). [The determinants of healthcare expenditures of prisoners: Evidence from Switzerland](https://doi.org/10.1186/s12913-018-2962-8). _BMC Health Services Research_, 18:160. 
 
 - Moschetti, Karine, Véra Zabrodina, Pierre Stadelmann, Tenzin Wangmo, Alberto Holly, Jean-Blaise Wasserfallen, Bernice S. Elger, and Bruno Gravier (2017). [Exploring differences in healthcare utilization of prisoners in the canton of Vaud, Switzerland](https://doi.org/10.1371/journal.pone.0187255). _PLOS ONE_, 12(10):e0187255. 
