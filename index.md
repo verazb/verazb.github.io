@@ -23,8 +23,8 @@ In recent work, I analyze how dynamic pricing incentives shape demand, benefit c
 <br />
 
 
-<img src="docs/VeraZabrodina3.JPG" width="60%">
-<!-- ![](docs/VeraZabrodina3.JPG) -->
+<img src="docs/VeraZabrodina.JPG" width="60%">
+<!-- ![](docs/VeraZabrodina.JPG) -->
 <!-- ![image](path-to-image.jpg){: style="float: left"} -->
 <!-- align="left" -->
 
@@ -111,4 +111,5 @@ In recent work, I analyze how dynamic pricing incentives shape demand, benefit c
 
 
 ***
+
 
